@@ -1,3 +1,3 @@
 <?php
-    include_once("home.html")
+    include_once("startbootstrap-coming-soon-gh-pages/index.html")
 ?>
